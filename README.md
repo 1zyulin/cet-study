@@ -23,13 +23,15 @@
 
 ## 在 Windows 上启动
 
-需要 Python 3.10 或更新版本，以及 Edge / Chrome。详细的下载安装、首次使用和常见问题步骤见 [Windows 上手指南](docs/Windows上手指南.md)。下载并解压仓库后，在项目文件夹打开终端，运行：
+需要 Python 3.10 或更新版本，以及 Edge / Chrome。详细的下载安装、首次使用和常见问题步骤见 [Windows 上手指南](docs/Windows上手指南.md)。下载并完整解压仓库后，**双击 `start.cmd`** 即可启动。学习期间保持启动窗口打开；关闭窗口后，本地网页会显示“连接被拒绝”。启动失败时，窗口会保留错误提示。
+
+也可以在项目文件夹打开终端，运行：
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\start.ps1
 ```
 
-脚本首次创建项目 `.venv` 并安装依赖，之后启动应用；不会安装项目之外的 Python 包。上面的执行策略参数只作用于本次进程，不修改系统策略。也可以右键 `start.ps1` 选择“使用 PowerShell 运行”。
+脚本首次创建项目 `.venv` 并安装依赖，之后启动应用；不会安装项目之外的 Python 包。`start.cmd` 与上面的命令都只为本次进程设置执行策略，不修改系统策略。
 
 浏览器自动打开；也可手动访问 [http://127.0.0.1:8765](http://127.0.0.1:8765)。服务运行期间保持启动终端打开；按 `Ctrl+C` 停止。
 
