@@ -1,0 +1,1272 @@
+{
+  "index_version": 1,
+  "checked_on": "2026-10-12",
+  "year_start": 2023,
+  "year_end": 2025,
+  "content_type": "source_file_metadata_only",
+  "source_repository": "0609x/CET46-Resources",
+  "source_tree_sha": "4a24a1abf752e27de88a5e8bf930595c4ccffcec",
+  "rights_url": "https://github.com/0609x/CET46-Resources/blob/main/RIGHTS.md",
+  "notice": "这是资料文件来源索引，不含真题正文，不是可直接导入的学习内容包。文件数量不等于套卷数量；多个文件可能是同套卷的不同版本。",
+  "sessions": [
+    {
+      "level": "CET4",
+      "session": "2023.03",
+      "counts": {
+        "paper_pdf": 2,
+        "paper_word": 0,
+        "answer": 2,
+        "audio": 0,
+        "audio_notice": 0
+      },
+      "notes": "主来源未提供可播放音频"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "counts": {
+        "paper_pdf": 6,
+        "paper_word": 0,
+        "answer": 6,
+        "audio": 3,
+        "audio_notice": 0
+      },
+      "notes": ""
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "counts": {
+        "paper_pdf": 6,
+        "paper_word": 0,
+        "answer": 6,
+        "audio": 2,
+        "audio_notice": 0
+      },
+      "notes": ""
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "counts": {
+        "paper_pdf": 6,
+        "paper_word": 0,
+        "answer": 6,
+        "audio": 2,
+        "audio_notice": 0
+      },
+      "notes": ""
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "counts": {
+        "paper_pdf": 3,
+        "paper_word": 0,
+        "answer": 6,
+        "audio": 2,
+        "audio_notice": 0
+      },
+      "notes": ""
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "counts": {
+        "paper_pdf": 6,
+        "paper_word": 0,
+        "answer": 6,
+        "audio": 1,
+        "audio_notice": 0
+      },
+      "notes": ""
+    },
+    {
+      "level": "CET4",
+      "session": "2025.12",
+      "counts": {
+        "paper_pdf": 3,
+        "paper_word": 0,
+        "answer": 3,
+        "audio": 0,
+        "audio_notice": 0
+      },
+      "notes": "主来源未提供可播放音频"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.03",
+      "counts": {
+        "paper_pdf": 0,
+        "paper_word": 0,
+        "answer": 0,
+        "audio": 0,
+        "audio_notice": 0
+      },
+      "notes": "主来源未收录，需要补充"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "counts": {
+        "paper_pdf": 3,
+        "paper_word": 0,
+        "answer": 3,
+        "audio": 2,
+        "audio_notice": 1
+      },
+      "notes": ""
+    },
+    {
+      "level": "CET6",
+      "session": "2023.12",
+      "counts": {
+        "paper_pdf": 3,
+        "paper_word": 0,
+        "answer": 2,
+        "audio": 0,
+        "audio_notice": 0
+      },
+      "notes": "主来源未提供可播放音频"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.06",
+      "counts": {
+        "paper_pdf": 0,
+        "paper_word": 3,
+        "answer": 3,
+        "audio": 0,
+        "audio_notice": 0
+      },
+      "notes": "主来源未提供可播放音频"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "counts": {
+        "paper_pdf": 3,
+        "paper_word": 0,
+        "answer": 3,
+        "audio": 2,
+        "audio_notice": 1
+      },
+      "notes": ""
+    },
+    {
+      "level": "CET6",
+      "session": "2025.06",
+      "counts": {
+        "paper_pdf": 3,
+        "paper_word": 0,
+        "answer": 3,
+        "audio": 1,
+        "audio_notice": 0
+      },
+      "notes": ""
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "counts": {
+        "paper_pdf": 3,
+        "paper_word": 0,
+        "answer": 3,
+        "audio": 2,
+        "audio_notice": 0
+      },
+      "notes": ""
+    }
+  ],
+  "files": [
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "audio",
+      "path": "六级真题/2023.06/听力音频/2023.06六级真题第1套听力音频.mp3",
+      "bytes": 20119016,
+      "blob_sha": "49ab62fb6a7cb2e794849d1a140a3bf15226c3a8",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "audio",
+      "path": "六级真题/2023.06/听力音频/2023.06六级真题第2套听力音频.mp3",
+      "bytes": 20119815,
+      "blob_sha": "63297df1f584a0cf4af2fadfef7f064fbda39f56",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "audio_notice",
+      "path": "六级真题/2023.06/听力音频/第3套听力与第2或第1套完全相同.txt",
+      "bytes": 76,
+      "blob_sha": "600710145619726dbc09c652196a17a2840da249",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/%E7%AC%AC3%E5%A5%97%E5%90%AC%E5%8A%9B%E4%B8%8E%E7%AC%AC2%E6%88%96%E7%AC%AC1%E5%A5%97%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C.txt"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "六级真题/2023.06/真题PDF/2023.06六级真题第1套.pdf",
+      "bytes": 5265740,
+      "blob_sha": "6f2605febf789beab1e851ba1b6629f4cf1418df",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "六级真题/2023.06/真题PDF/2023.06六级真题第2套.pdf",
+      "bytes": 5357945,
+      "blob_sha": "da08b85f89896b7951d4d3452fac82df9cff0020",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "六级真题/2023.06/真题PDF/2023.06六级真题第3套.pdf",
+      "bytes": 4084627,
+      "blob_sha": "8a4c1cae1e45871fbd41fded5c279671152bc54e",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "六级真题/2023.06/答案解析/2023.06六级真题第1套详解.pdf",
+      "bytes": 11502462,
+      "blob_sha": "35b0bc2fbe39725f4c620098b7fa4fcb9dc59642",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E8%AF%A6%E8%A7%A3.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "六级真题/2023.06/答案解析/2023.06六级真题第2套详解.pdf",
+      "bytes": 11827896,
+      "blob_sha": "918724e346d1804845ece65b223ef0e4a8f73443",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E8%AF%A6%E8%A7%A3.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "六级真题/2023.06/答案解析/2023.06六级真题第3套详解.pdf",
+      "bytes": 7247485,
+      "blob_sha": "cf401511ec99d864b37645f250daf53aeb4f2f19",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97%E8%AF%A6%E8%A7%A3.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2023.12/真题PDF/2023.12六级真题第1套(1).pdf",
+      "bytes": 9184828,
+      "blob_sha": "5903075250273dc09ebeb76fc6c4c7b76bb539b0",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/2023.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97(1).pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2023.12/真题PDF/2023.12六级真题第2套(1).pdf",
+      "bytes": 8928690,
+      "blob_sha": "74b018eb8597003f53511c4a6b7e105628cdcc1f",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/2023.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97(1).pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2023.12/真题PDF/2023.12六级真题第3套(1).pdf",
+      "bytes": 6806085,
+      "blob_sha": "0bf39cc837a6deb31dbd5d9dfd9dccaf2de1f5db",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/2023.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97(1).pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.12",
+      "kind": "answer",
+      "path": "六级真题/2023.12/答案解析/2023.12英语六级解析第1套(1).pdf",
+      "bytes": 35585423,
+      "blob_sha": "5684099734dfb247eb96c54a27fa8bde60d03744",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC1%E5%A5%97(1).pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2023.12",
+      "kind": "answer",
+      "path": "六级真题/2023.12/答案解析/2023.12英语六级解析第2套(1).pdf",
+      "bytes": 33877626,
+      "blob_sha": "932686755e285ca53bf58ddc22cb5def32809021",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC2%E5%A5%97(1).pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.06",
+      "kind": "paper_word",
+      "path": "六级真题/2024.06/真题Word/2024年6月第1套英语六级真题【推荐使用PDF版】.docx",
+      "bytes": 62310,
+      "blob_sha": "e50e01e8df6271638c0807e85c9e5bd3e713604d",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98Word/2024%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8PDF%E7%89%88%E3%80%91.docx"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.06",
+      "kind": "paper_word",
+      "path": "六级真题/2024.06/真题Word/2024年6月第2套英语六级真题【推荐使用PDF版】.docx",
+      "bytes": 68252,
+      "blob_sha": "9272f8cbbbf7b4bd6ed81e8ab788be8c1c7a0e89",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98Word/2024%E5%B9%B46%E6%9C%88%E7%AC%AC2%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8PDF%E7%89%88%E3%80%91.docx"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.06",
+      "kind": "paper_word",
+      "path": "六级真题/2024.06/真题Word/2024年6月第3套英语六级真题【推荐使用PDF版】.docx",
+      "bytes": 51869,
+      "blob_sha": "2580ef3a78746ff4a68bf2b8461c49e6012d74d9",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98Word/2024%E5%B9%B46%E6%9C%88%E7%AC%AC3%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8PDF%E7%89%88%E3%80%91.docx"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "六级真题/2024.06/答案解析/2024年6月第1套英语六级真题解析.pdf",
+      "bytes": 2850717,
+      "blob_sha": "8b540434bd0489a6f5d8d364e0aba659457c9db2",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "六级真题/2024.06/答案解析/2024年6月第2套英语六级真题解析.pdf",
+      "bytes": 2779155,
+      "blob_sha": "d71872b14b63fec471b1d5e526fd5c3d72e75801",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B46%E6%9C%88%E7%AC%AC2%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "六级真题/2024.06/答案解析/2024年6月第3套英语六级真题解析.pdf",
+      "bytes": 1603600,
+      "blob_sha": "79e25a4e4973dd425b3f0cc016dfa0b169eed9bb",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B46%E6%9C%88%E7%AC%AC3%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "audio",
+      "path": "六级真题/2024.12/听力音频/2024年12月六级听力音频第1套.mp3",
+      "bytes": 70863497,
+      "blob_sha": "dd4324a30fa2843189347c91620805079818c76c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2024%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91%E7%AC%AC1%E5%A5%97.mp3"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "audio",
+      "path": "六级真题/2024.12/听力音频/2024年12月六级听力音频第2套.mp3",
+      "bytes": 27895942,
+      "blob_sha": "31da51c0d7324cf12e034dce60a45f5b8ceec419",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2024%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91%E7%AC%AC2%E5%A5%97.mp3"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "audio_notice",
+      "path": "六级真题/2024.12/听力音频/提示：第3套音频看第3套真题卷说明.txt",
+      "bytes": 114,
+      "blob_sha": "90a9e3a97e01083945723c8eb9eb0f34ceae56d2",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/%E6%8F%90%E7%A4%BA%EF%BC%9A%E7%AC%AC3%E5%A5%97%E9%9F%B3%E9%A2%91%E7%9C%8B%E7%AC%AC3%E5%A5%97%E7%9C%9F%E9%A2%98%E5%8D%B7%E8%AF%B4%E6%98%8E.txt"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2024.12/真题PDF/2024.12六级真题第1套.pdf",
+      "bytes": 1057885,
+      "blob_sha": "36f1008dd916e65aed7dd8ad05cdd7416468662d",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%9C%9F%E9%A2%98PDF/2024.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2024.12/真题PDF/2024.12六级真题第2套.pdf",
+      "bytes": 1040345,
+      "blob_sha": "542efee098efc8e6d9114f4f9b5342f41c4656ee",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%9C%9F%E9%A2%98PDF/2024.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2024.12/真题PDF/2024.12六级真题第3套.pdf",
+      "bytes": 863504,
+      "blob_sha": "34a5ff3822e78ee6621f0bad86629515470c9149",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%9C%9F%E9%A2%98PDF/2024.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "六级真题/2024.12/答案解析/2024.12英语六级解析第1套.pdf",
+      "bytes": 37651307,
+      "blob_sha": "8280e9f39c1f167287e87d4b0a6f6d0530b09fd9",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC1%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "六级真题/2024.12/答案解析/2024.12英语六级解析第2套.pdf",
+      "bytes": 37222607,
+      "blob_sha": "8367fdc7b99f8f501ed1978ceba6467f7d401568",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC2%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "六级真题/2024.12/答案解析/2024.12英语六级解析第3套.pdf",
+      "bytes": 22996178,
+      "blob_sha": "c9f0e3406a992424887583447e5ae95eb5d80a81",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC3%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.06",
+      "kind": "audio",
+      "path": "六级真题/2025.06/听力音频/2025年6月六级音频1.MP3",
+      "bytes": 18501013,
+      "blob_sha": "72ad0a1524bc7229167c2c1cc22eb96cf1019992",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2025%E5%B9%B46%E6%9C%88%E5%85%AD%E7%BA%A7%E9%9F%B3%E9%A2%911.MP3"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "六级真题/2025.06/真题PDF/2025.06六级真题第1套.pdf",
+      "bytes": 35202278,
+      "blob_sha": "86a2bcf81d6f48ffb663c94a0ca2058db98f4108",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/2025.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "六级真题/2025.06/真题PDF/2025.06六级真题第2套.pdf",
+      "bytes": 33581242,
+      "blob_sha": "8c8fa29bd21904e05ca8fd56e6794b71b42b232f",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/2025.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "六级真题/2025.06/真题PDF/2025.06六级真题第3套.pdf",
+      "bytes": 26671249,
+      "blob_sha": "3915e58256521c5c8958142d9eb213189b5cb16c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/2025.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "六级真题/2025.06/答案解析/2025.06英语六级解析第1套.pdf",
+      "bytes": 44835252,
+      "blob_sha": "8935ad324ec1fe5382aa427185d9cc91ec3e0694",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2025.06%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC1%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "六级真题/2025.06/答案解析/2025.06英语六级解析第2套.pdf",
+      "bytes": 43150994,
+      "blob_sha": "0103503bafff0b5e91046ab325d8da849b6b9708",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2025.06%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC2%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "六级真题/2025.06/答案解析/2025.06英语六级解析第3套.pdf",
+      "bytes": 22434402,
+      "blob_sha": "7efd702706ed838ce1b086ac3e5fbb07b18c4dd7",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2025.06%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC3%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "kind": "audio",
+      "path": "六级真题/2025.12/听力音频/2025年12月六级听力第1套.mp3",
+      "bytes": 37060775,
+      "blob_sha": "dc29d38b4256cc58af004f2e4c401fafac9515ca",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2025%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC1%E5%A5%97.mp3"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "kind": "audio",
+      "path": "六级真题/2025.12/听力音频/2025年12月六级听力第2套.mp3",
+      "bytes": 25163452,
+      "blob_sha": "882e41a5dd750da371a33d0a78bc5e9a05a5df7d",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2025%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC2%E5%A5%97.mp3"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2025.12/真题PDF/cet6_2025_12_1.pdf",
+      "bytes": 1381327,
+      "blob_sha": "188782f2637afee920970574c6c23c6714a7de6b",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet6_2025_12_1.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2025.12/真题PDF/cet6_2025_12_2.pdf",
+      "bytes": 1346926,
+      "blob_sha": "0b83f862c335ec0b67b78b10a65deca620cb0a8c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet6_2025_12_2.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "kind": "paper_pdf",
+      "path": "六级真题/2025.12/真题PDF/cet6_2025_12_3.pdf",
+      "bytes": 1039500,
+      "blob_sha": "378000b31b0e3ce981203e916583d5fb52474db7",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet6_2025_12_3.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "kind": "answer",
+      "path": "六级真题/2025.12/答案解析/cet6_2025_12_1_ans.pdf",
+      "bytes": 862422,
+      "blob_sha": "ac8bd9a619653d87ea892693eba7263c14ef4b33",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2025_12_1_ans.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "kind": "answer",
+      "path": "六级真题/2025.12/答案解析/cet6_2025_12_2_ans.pdf",
+      "bytes": 900644,
+      "blob_sha": "c5b056d4c34203368e4e3b88e1ec3be0a937cfa4",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2025_12_2_ans.pdf"
+    },
+    {
+      "level": "CET6",
+      "session": "2025.12",
+      "kind": "answer",
+      "path": "六级真题/2025.12/答案解析/cet6_2025_12_3_ans.pdf",
+      "bytes": 716009,
+      "blob_sha": "914f1ad6908feb838deee5c39b3ebf7d66f80237",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2025_12_3_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.03",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.03/真题PDF/cet4_2023_03_1.pdf",
+      "bytes": 1806114,
+      "blob_sha": "28282fc27135e2b930abe157b7a262e3f82e0123",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.03/%E7%9C%9F%E9%A2%98PDF/cet4_2023_03_1.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.03",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.03/真题PDF/cet4_2023_03_2-3.pdf",
+      "bytes": 483546,
+      "blob_sha": "482407f4fc4f4d7f71271aece6e4773e5f39a2e3",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.03/%E7%9C%9F%E9%A2%98PDF/cet4_2023_03_2-3.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.03",
+      "kind": "answer",
+      "path": "四级真题/2023.03/答案解析/cet4_2023_03_1_ans.pdf",
+      "bytes": 3183811,
+      "blob_sha": "058cbeb8079f0d20091f74c9a4d03bbb65d25348",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.03/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2023_03_1_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.03",
+      "kind": "answer",
+      "path": "四级真题/2023.03/答案解析/cet4_2023_03_2-3_ans.pdf",
+      "bytes": 801950,
+      "blob_sha": "97b40751fb5834b26b07cdca958f117e7d42795a",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.03/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2023_03_2-3_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "audio",
+      "path": "四级真题/2023.06/听力音频/2023年6月第1套英语四级真题听力音频.mp3",
+      "bytes": 17433846,
+      "blob_sha": "7e7738ee62f8b75eb3aa7616da403ab7751fd7db",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "audio",
+      "path": "四级真题/2023.06/听力音频/2023年6月第2套英语四级真题听力音频.mp3",
+      "bytes": 17366304,
+      "blob_sha": "b8594402493493eb7fdaabd4a6cd99e591df274c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023%E5%B9%B46%E6%9C%88%E7%AC%AC2%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "audio",
+      "path": "四级真题/2023.06/听力音频/2023年6月第3套英语四级真题听力音频.mp3",
+      "bytes": 17366304,
+      "blob_sha": "b8594402493493eb7fdaabd4a6cd99e591df274c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023%E5%B9%B46%E6%9C%88%E7%AC%AC3%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.06/真题PDF/2023年6月第1套英语四级真题.pdf",
+      "bytes": 2933516,
+      "blob_sha": "292e985fb634e49117ee2d246bc56ca137ff701c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.06/真题PDF/2023年6月第2套英语四级真题.pdf",
+      "bytes": 2880591,
+      "blob_sha": "bb68473e4c6ada2bb1ad54418edb32c434b6efed",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023%E5%B9%B46%E6%9C%88%E7%AC%AC2%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.06/真题PDF/2023年6月第3套英语四级真题.pdf",
+      "bytes": 2384358,
+      "blob_sha": "3ae3dc94d4f54a1cbecb92e877976c34bd24543c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023%E5%B9%B46%E6%9C%88%E7%AC%AC3%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.06/真题PDF/cet4_2023_06_1.pdf",
+      "bytes": 1557361,
+      "blob_sha": "2a005a641ff76297c2d976eb8aedecb7fce97427",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/cet4_2023_06_1.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.06/真题PDF/cet4_2023_06_2.pdf",
+      "bytes": 1545271,
+      "blob_sha": "b86652db9eb890bda8b3723ab942992fb79d80d0",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/cet4_2023_06_2.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.06/真题PDF/cet4_2023_06_3.pdf",
+      "bytes": 1193766,
+      "blob_sha": "9550c073c82c00e539e0e9d5dedd9773875484eb",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/cet4_2023_06_3.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "四级真题/2023.06/答案解析/2023年6月第1套英语四级真题解析.pdf",
+      "bytes": 7056193,
+      "blob_sha": "de382c5639a1bb3147d5533272da5a332e1fb121",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "四级真题/2023.06/答案解析/2023年6月第2套英语四级真题解析.pdf",
+      "bytes": 7329034,
+      "blob_sha": "534b56f057fe3a5dc650b1c350572a181bc4cde7",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023%E5%B9%B46%E6%9C%88%E7%AC%AC2%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "四级真题/2023.06/答案解析/2023年6月第3套英语四级真题解析.pdf",
+      "bytes": 4600665,
+      "blob_sha": "e6e33652b89cf272a2f5111f99b4bacbbb2120f1",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023%E5%B9%B46%E6%9C%88%E7%AC%AC3%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E8%A7%A3%E6%9E%90.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "四级真题/2023.06/答案解析/cet4_2023_06_1_ans.pdf",
+      "bytes": 3478846,
+      "blob_sha": "863255942cda8c28da6746d34bd6a8b0c28acd98",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2023_06_1_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "四级真题/2023.06/答案解析/cet4_2023_06_2_ans.pdf",
+      "bytes": 3609535,
+      "blob_sha": "f8e8f70ca2512355a8e89f64cf1937adbf1450b7",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2023_06_2_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.06",
+      "kind": "answer",
+      "path": "四级真题/2023.06/答案解析/cet4_2023_06_3_ans.pdf",
+      "bytes": 2268493,
+      "blob_sha": "5025e789eaaf1df1b3d58aa8822ccc03e25e250b",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2023_06_3_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "audio",
+      "path": "四级真题/2023.12/听力音频/2023年12月四级听力音频第1套.mp3",
+      "bytes": 23778228,
+      "blob_sha": "4166d4ad7f35808a04e131a30bf5e2a175e3a719",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91%E7%AC%AC1%E5%A5%97.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "audio",
+      "path": "四级真题/2023.12/听力音频/2023年12月四级听力音频第2套.mp3",
+      "bytes": 59754825,
+      "blob_sha": "f2844004747edef528c7624aeb227497754e511a",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91%E7%AC%AC2%E5%A5%97.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.12/真题PDF/2023.12四级真题第1套【可复制可检索】.pdf",
+      "bytes": 13147157,
+      "blob_sha": "7f30bf21656d68e89d8b4896cc714d7fccfb885a",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/2023.12%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E3%80%90%E5%8F%AF%E5%A4%8D%E5%88%B6%E5%8F%AF%E6%A3%80%E7%B4%A2%E3%80%91.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.12/真题PDF/2023.12四级真题第2套【可复制可检索】.pdf",
+      "bytes": 11741593,
+      "blob_sha": "da7ab17a4743a93dc593247eb339286162629358",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/2023.12%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E3%80%90%E5%8F%AF%E5%A4%8D%E5%88%B6%E5%8F%AF%E6%A3%80%E7%B4%A2%E3%80%91.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.12/真题PDF/2023.12四级真题第3套【可复制可检索】.pdf",
+      "bytes": 8659357,
+      "blob_sha": "cae5574c954816e01578639163c9ebf08ce2a220",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/2023.12%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97%E3%80%90%E5%8F%AF%E5%A4%8D%E5%88%B6%E5%8F%AF%E6%A3%80%E7%B4%A2%E3%80%91.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.12/真题PDF/cet4_2023_12_1.pdf",
+      "bytes": 1530495,
+      "blob_sha": "548fa782c5728fc65e6c6f202935d996eaa08c2f",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/cet4_2023_12_1.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.12/真题PDF/cet4_2023_12_2.pdf",
+      "bytes": 1473673,
+      "blob_sha": "3d66d0e4f569a6bf20b650a2cad31563d9bcd104",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/cet4_2023_12_2.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2023.12/真题PDF/cet4_2023_12_3.pdf",
+      "bytes": 1128404,
+      "blob_sha": "f2cbc74ef95b0d04ea322cc23d088d7c4b8270f3",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%9C%9F%E9%A2%98PDF/cet4_2023_12_3.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "answer",
+      "path": "四级真题/2023.12/答案解析/2023.12英语四级解析第1套.pdf",
+      "bytes": 35545440,
+      "blob_sha": "d0b032c3d293620c0db4929f9fb443411eb19f70",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.12%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC1%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "answer",
+      "path": "四级真题/2023.12/答案解析/2023.12英语四级解析第2套.pdf",
+      "bytes": 34054743,
+      "blob_sha": "7462372847211b2a66a951b25f2bbb2fda2fa490",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.12%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC2%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "answer",
+      "path": "四级真题/2023.12/答案解析/2023.12英语四级解析第3套.pdf",
+      "bytes": 22864637,
+      "blob_sha": "79a90707be211d97d3e4610d8cfdc5ea0de21401",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.12%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC3%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "answer",
+      "path": "四级真题/2023.12/答案解析/cet4_2023_12_1_ans.pdf",
+      "bytes": 4121808,
+      "blob_sha": "19b89fe8a356f5c3789aa66853bf7dc2c7d24806",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2023_12_1_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "answer",
+      "path": "四级真题/2023.12/答案解析/cet4_2023_12_2_ans.pdf",
+      "bytes": 4020950,
+      "blob_sha": "d33df0a73a6903c1e8fd0999285ca78296bf3476",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2023_12_2_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2023.12",
+      "kind": "answer",
+      "path": "四级真题/2023.12/答案解析/cet4_2023_12_3_ans.pdf",
+      "bytes": 2391544,
+      "blob_sha": "5f16dbb1c5c05bedb43700154a065514e6517077",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2023_12_3_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "audio",
+      "path": "四级真题/2024.06/听力音频/2024年6月四级真题（第1套）.mp3",
+      "bytes": 22562096,
+      "blob_sha": "c84f9ec85425592e0f364c4bb0607061f29443fb",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC1%E5%A5%97%EF%BC%89.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "audio",
+      "path": "四级真题/2024.06/听力音频/2024年6月四级真题（第2套）.mp3",
+      "bytes": 22652772,
+      "blob_sha": "1e15b0202054d796cec53c9cb115b7c075f7804e",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC2%E5%A5%97%EF%BC%89.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.06/真题PDF/2024年06月大学英语四级考试真题（第1套）.pdf",
+      "bytes": 633546,
+      "blob_sha": "8b9238c89428fe7edb5de61fa53c9bf87cb524ff",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/2024%E5%B9%B406%E6%9C%88%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC1%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.06/真题PDF/2024年06月大学英语四级考试真题（第2套）.pdf",
+      "bytes": 636105,
+      "blob_sha": "69052447e8b729eefbc75109c9d012e3c631575f",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/2024%E5%B9%B406%E6%9C%88%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC2%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.06/真题PDF/2024年06月大学英语四级考试真题（第3套）.pdf",
+      "bytes": 714790,
+      "blob_sha": "e775edb910d3a08b1f29b87e0240be7938d74a68",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/2024%E5%B9%B406%E6%9C%88%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC3%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.06/真题PDF/cet4_2024_06_1.pdf",
+      "bytes": 347606,
+      "blob_sha": "3c336c042fb5db82ceed0a1a02cea7efbe5c69a1",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/cet4_2024_06_1.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.06/真题PDF/cet4_2024_06_2.pdf",
+      "bytes": 346840,
+      "blob_sha": "1ec8be3d8d31388c6016fe46b7ff7cc946477603",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/cet4_2024_06_2.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.06/真题PDF/cet4_2024_06_3.pdf",
+      "bytes": 314753,
+      "blob_sha": "0f1e359a942e604aae6cff44f8f878d5643ac0ad",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/cet4_2024_06_3.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "四级真题/2024.06/答案解析/2024年06月四级考试真题答案速查（第1套）.pdf",
+      "bytes": 343962,
+      "blob_sha": "1f872f05d27b78ec1883a074ffbbd74683155cd0",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B406%E6%9C%88%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E9%80%9F%E6%9F%A5%EF%BC%88%E7%AC%AC1%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "四级真题/2024.06/答案解析/2024年06月四级考试真题答案速查（第2套）.pdf",
+      "bytes": 341885,
+      "blob_sha": "934f86b3ac231ea2539a02cfdaed804d24aac0b2",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B406%E6%9C%88%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E9%80%9F%E6%9F%A5%EF%BC%88%E7%AC%AC2%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "四级真题/2024.06/答案解析/2024年06月四级考试真题答案速查（第3套）.pdf",
+      "bytes": 323814,
+      "blob_sha": "ff8dd883edeb5f4112a26b71592f070cd9287631",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B406%E6%9C%88%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E9%80%9F%E6%9F%A5%EF%BC%88%E7%AC%AC3%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "四级真题/2024.06/答案解析/cet4_2024_06_1_ans.pdf",
+      "bytes": 3213851,
+      "blob_sha": "9536d630f5074a786d580b796e592364bb2d0b36",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2024_06_1_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "四级真题/2024.06/答案解析/cet4_2024_06_2_ans.pdf",
+      "bytes": 3042257,
+      "blob_sha": "d3f382256c05ada386d1505440f255794f2d9217",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2024_06_2_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.06",
+      "kind": "answer",
+      "path": "四级真题/2024.06/答案解析/cet4_2024_06_3_ans.pdf",
+      "bytes": 2041911,
+      "blob_sha": "0b35cfd6cf1c8b392ced1e3e08e4c4766d948d4a",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2024_06_3_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "audio",
+      "path": "四级真题/2024.12/听力音频/2024年12月英语四级听力（第一套）.mp3",
+      "bytes": 7025520,
+      "blob_sha": "9a71561e1a89dc2fc9bc247c1c432e7f75a4a4c3",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2024%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E5%90%AC%E5%8A%9B%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "audio",
+      "path": "四级真题/2024.12/听力音频/2024年12月英语四级听力（第二套）.mp3",
+      "bytes": 10819336,
+      "blob_sha": "aeb6092d6bf8edb2c5e11ec02958f295d7f50449",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2024%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E5%90%AC%E5%8A%9B%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.mp3"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.12/真题PDF/cet4_2024_12_1.pdf",
+      "bytes": 368437,
+      "blob_sha": "5aed29cc006f8fdcf1e61411808f4c24453eb3c4",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%9C%9F%E9%A2%98PDF/cet4_2024_12_1.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.12/真题PDF/cet4_2024_12_2.pdf",
+      "bytes": 342476,
+      "blob_sha": "58a32fb2ab460b3c875ef47e06919feae991444f",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%9C%9F%E9%A2%98PDF/cet4_2024_12_2.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2024.12/真题PDF/cet4_2024_12_3.pdf",
+      "bytes": 310643,
+      "blob_sha": "c536548faf454d4c0b60ac0e189717df069f4da3",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%9C%9F%E9%A2%98PDF/cet4_2024_12_3.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "四级真题/2024.12/答案解析/2024年12月四级真题原卷及答案（第1套）.pdf",
+      "bytes": 6268031,
+      "blob_sha": "bc0b69f0dab5b9549ce4839018c9bfac9208bf62",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8E%9F%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88%EF%BC%88%E7%AC%AC1%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "四级真题/2024.12/答案解析/2024年12月四级真题原卷及答案（第2套）.pdf",
+      "bytes": 6681639,
+      "blob_sha": "7a525b86c3b79cf27eb234f2f6fb9f193d1b5270",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8E%9F%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88%EF%BC%88%E7%AC%AC2%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "四级真题/2024.12/答案解析/2024年12月四级真题原卷及答案（第3套）.pdf",
+      "bytes": 73285275,
+      "blob_sha": "b6e05ed48b61b4ba42b2e8c104d2ba4efcd316bf",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8E%9F%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88%EF%BC%88%E7%AC%AC3%E5%A5%97%EF%BC%89.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "四级真题/2024.12/答案解析/cet4_2024_12_1_ans.pdf",
+      "bytes": 4333246,
+      "blob_sha": "61361e8e4634a104431471d94ccf218fc06f8d38",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2024_12_1_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "四级真题/2024.12/答案解析/cet4_2024_12_2_ans.pdf",
+      "bytes": 4598420,
+      "blob_sha": "bcd7f946932eed4c3c1884a1c540ffeec282890b",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2024_12_2_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2024.12",
+      "kind": "answer",
+      "path": "四级真题/2024.12/答案解析/cet4_2024_12_3_ans.pdf",
+      "bytes": 2634305,
+      "blob_sha": "0530d6bfee93cd48323dc8dde60e1baf5297f83b",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2024_12_3_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "audio",
+      "path": "四级真题/2025.06/听力音频/2025年6月四级音频1.MP3",
+      "bytes": 15273895,
+      "blob_sha": "c25fa0e4a2a574f8c7c224c8a8986553d14b0bb7",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E9%9F%B3%E9%A2%911.MP3"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.06/真题PDF/2025.06四级真题第1套.pdf",
+      "bytes": 23069767,
+      "blob_sha": "2acc5858679306e1f21f5302b9d83bcaedf1abfd",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/2025.06%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.06/真题PDF/2025.06四级真题第2套.pdf",
+      "bytes": 22282403,
+      "blob_sha": "5297351e75e7fcf158ac0216e35962fbbff0bdf6",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/2025.06%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.06/真题PDF/2025.06四级真题第3套.pdf",
+      "bytes": 16917096,
+      "blob_sha": "003f18c8f24cc8632a71706790fc6eaf18d42536",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/2025.06%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.06/真题PDF/cet4_2025_06_1.pdf",
+      "bytes": 366427,
+      "blob_sha": "e43298eb3fe61677156d2943d094261061f89e21",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/cet4_2025_06_1.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.06/真题PDF/cet4_2025_06_2.pdf",
+      "bytes": 347511,
+      "blob_sha": "29d0cfa33049c8a32d5511b42848693b0c462086",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/cet4_2025_06_2.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.06/真题PDF/cet4_2025_06_3.pdf",
+      "bytes": 322504,
+      "blob_sha": "70f56be432dd28a1e7f875dd6c0945dd6f42e203",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/cet4_2025_06_3.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "四级真题/2025.06/答案解析/2025.06英语四级解析第1套.pdf",
+      "bytes": 15583087,
+      "blob_sha": "525561c2da19e284c4474d7d277613bfb90b4f6c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2025.06%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC1%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "四级真题/2025.06/答案解析/2025.06英语四级解析第2套.pdf",
+      "bytes": 15217732,
+      "blob_sha": "4a0825c1d92eed1815f21f65fc130d92eb25cffc",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2025.06%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC2%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "四级真题/2025.06/答案解析/2025.06英语四级解析第3套.pdf",
+      "bytes": 9591428,
+      "blob_sha": "a226c2472108ef940163cec39aea8fd249a2895a",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2025.06%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC3%E5%A5%97.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "四级真题/2025.06/答案解析/cet4_2025_06_1_ans.pdf",
+      "bytes": 4459701,
+      "blob_sha": "d8a12b763cf503e69dd524749bd748833090263d",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2025_06_1_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "四级真题/2025.06/答案解析/cet4_2025_06_2_ans.pdf",
+      "bytes": 3800243,
+      "blob_sha": "cdf8866253dcc633029574f67943837c4c00b29b",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2025_06_2_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.06",
+      "kind": "answer",
+      "path": "四级真题/2025.06/答案解析/cet4_2025_06_3_ans.pdf",
+      "bytes": 2364225,
+      "blob_sha": "cbad1e989c956dfe957dfff24285ef0fbfee967e",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2025_06_3_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.12/真题PDF/cet4_2025_12_1.pdf",
+      "bytes": 312784,
+      "blob_sha": "cd57d9948bd3617aa9a25865353e0b7bcf74d54d",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet4_2025_12_1.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.12/真题PDF/cet4_2025_12_2.pdf",
+      "bytes": 317605,
+      "blob_sha": "b5477b31807efd2147450044a481682650f097d8",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet4_2025_12_2.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.12",
+      "kind": "paper_pdf",
+      "path": "四级真题/2025.12/真题PDF/cet4_2025_12_3.pdf",
+      "bytes": 291007,
+      "blob_sha": "9ab77f6a86e6a19b070de413d324773829cc5f66",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet4_2025_12_3.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.12",
+      "kind": "answer",
+      "path": "四级真题/2025.12/答案解析/cet4_2025_12_1_ans.pdf",
+      "bytes": 4391938,
+      "blob_sha": "122620f5aaf143836a45351c31e422a9c3bbe8a2",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2025_12_1_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.12",
+      "kind": "answer",
+      "path": "四级真题/2025.12/答案解析/cet4_2025_12_2_ans.pdf",
+      "bytes": 4428826,
+      "blob_sha": "b141e2cfc0ed3a8f0e70ad00395f5f16b9d6d970",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2025_12_2_ans.pdf"
+    },
+    {
+      "level": "CET4",
+      "session": "2025.12",
+      "kind": "answer",
+      "path": "四级真题/2025.12/答案解析/cet4_2025_12_3_ans.pdf",
+      "bytes": 2745027,
+      "blob_sha": "f8b7d16d303ae89728b8189ae83c58d6cfc9fd9c",
+      "url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet4_2025_12_3_ans.pdf"
+    }
+  ]
+}

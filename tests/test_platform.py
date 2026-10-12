@@ -312,6 +312,19 @@ class VocabularyTests(PlatformTestCase):
 
 
 class BackupAndAudioTests(PlatformTestCase):
+    def test_full_length_audio_can_exceed_json_limit(self):
+        data = b'ID3' + b'\0' * (33 * 1024 * 1024)
+        response = self.client.post('/api/audio', data=data,
+            headers=dict(self.token, **{'X-Filename': 'full-exam.mp3'}))
+        self.assertEqual(response.status_code, 200)
+        path = self.app.extensions['data_dir'] / 'audio' / response.get_json()['audio_url'].split('/')[-1]
+        self.assertEqual(path.stat().st_size, len(data))
+        response = self.client.post('/api/audio', data=b'ID3',
+            headers=dict(self.token, **{'X-Filename': 'too-large.mp3'}),
+            environ_overrides={'CONTENT_LENGTH': str(128 * 1024 * 1024 + 1)})
+        self.assertEqual(response.status_code, 413)
+        self.assertIn('128MB', response.get_json()['error'])
+
     def test_backup_roundtrip_and_invalid_restore_leave_data_intact(self):
         self.import_exam()
         self.post('/api/exams/test-cet4/submit', {'answers': {'q1': 'A'}})

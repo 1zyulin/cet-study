@@ -70,7 +70,8 @@ def create_app(data_dir=None, seed=True):
 
     @app.errorhandler(HTTPException)
     def http_error(e):
-        messages = {404: '页面或记录不存在', 413: '文件超过 32MB 限制', 405: '请求方法不支持', 400: '请求格式错误'}
+        limit = '128MB' if request.path == '/api/audio' else '32MB'
+        messages = {404: '页面或记录不存在', 413: f'文件超过 {limit} 限制', 405: '请求方法不支持', 400: '请求格式错误'}
         return jsonify(error=messages.get(e.code, '请求失败')), e.code
 
     def body():
@@ -218,6 +219,8 @@ def create_app(data_dir=None, seed=True):
 
     @app.post('/api/audio')
     def audio_upload():
+        # Full exam recordings can exceed the normal JSON import limit.
+        request.max_content_length = 128 * 1024 * 1024
         name = unquote(request.headers.get('X-Filename', ''))
         ext = Path(name).suffix.lower()
         data = request.get_data()
