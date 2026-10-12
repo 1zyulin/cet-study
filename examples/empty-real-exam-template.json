@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "exams": [
+    {
+      "id": "replace-with-unique-real-exam-id",
+      "title": "未填写模板：请补充级别、年份、考次和套卷",
+      "level": "CET4",
+      "year": 2025,
+      "session": "待填写",
+      "source_kind": "past_paper",
+      "source": {
+        "title": "待填写：原卷与答案来源",
+        "rights": "user-import",
+        "verified": false
+      },
+      "sections": [
+        {
+          "id": "replace-with-unique-section-id",
+          "title": "待填写：阅读部分",
+          "kind": "reading",
+          "passage": "待填写：核对后的真题原文。这个文件不包含真实试题，不能直接作为题库使用。",
+          "questions": [
+            {
+              "id": "replace-with-unique-question-id",
+              "type": "choice",
+              "prompt": "待填写：真题题干",
+              "options": [
+                { "id": "A", "text": "待填写：选项 A" },
+                { "id": "B", "text": "待填写：选项 B" },
+                { "id": "C", "text": "待填写：选项 C" },
+                { "id": "D", "text": "待填写：选项 D" }
+              ],
+              "explanation": "待填写：标注解析来源；选择题还必须添加经核对的 answer 字段。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

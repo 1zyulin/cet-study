@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "exams": [
+    {
+      "id": "demo-cet4-community-library",
+      "title": "四级演示 · 社区图书馆（自创练习）",
+      "level": "CET4",
+      "year": 2026,
+      "session": "演示",
+      "source_kind": "demo",
+      "source": {
+        "title": "CET Study 自创演示内容，不是历年真题",
+        "rights": "original-demo",
+        "verified": true
+      },
+      "sections": [
+        {
+          "id": "demo-cet4-reading",
+          "title": "阅读 · 从旧车库到图书馆",
+          "kind": "reading",
+          "passage": "Last spring, residents of Willow Street turned an unused garage into a small community library. They donated books and built simple shelves. At first, the library opened only on Saturday afternoons because the volunteers were busy during the week. When more students began to visit, two retired teachers offered to help on Wednesday evenings.\n\nVisitors do not need a membership card. They write their names in a notebook when borrowing a book and return it within two weeks. The volunteers also hold a monthly reading meeting. They hope that sharing stories will help neighbours get to know one another, as well as make books easier to find.",
+          "questions": [
+            {
+              "id": "demo-cet4-reading-q1",
+              "type": "choice",
+              "prompt": "Why did the library initially open only on Saturday afternoons?",
+              "options": [
+                { "id": "A", "text": "Visitors preferred reading at weekends." },
+                { "id": "B", "text": "The volunteers had limited time during the week." },
+                { "id": "C", "text": "The garage was too cold in the evening." },
+                { "id": "D", "text": "The teachers had not donated enough books." }
+              ],
+              "answer": "B",
+              "explanation": "第一段说明志愿者在工作日很忙，因此最初只能在周六下午开放。"
+            },
+            {
+              "id": "demo-cet4-reading-q2",
+              "type": "choice",
+              "prompt": "What is one purpose of the monthly reading meeting?",
+              "options": [
+                { "id": "A", "text": "To sell membership cards." },
+                { "id": "B", "text": "To shorten the borrowing period." },
+                { "id": "C", "text": "To help neighbours become familiar with one another." },
+                { "id": "D", "text": "To choose a new location for the library." }
+              ],
+              "answer": "C",
+              "explanation": "第二段末句明确说明分享故事可以帮助邻里彼此了解。"
+            }
+          ]
+        },
+        {
+          "id": "demo-cet4-writing",
+          "title": "写作 · 分享带来的改变",
+          "kind": "writing",
+          "questions": [
+            {
+              "id": "demo-cet4-writing-q1",
+              "type": "writing",
+              "prompt": "Write an essay about the value of sharing books on campus. Explain one benefit, describe one possible difficulty, and suggest a practical way to organize a book-sharing activity. This is an original practice prompt, not a past exam question.",
+              "min_words": 120,
+              "max_words": 180,
+              "reference": "可从降低阅读成本、结识同学或扩大阅读范围展开；说明归还、书籍状况等实际困难，并给出登记或轮值管理办法。参考思路并非唯一答案。"
+            }
+          ]
+        },
+        {
+          "id": "demo-cet4-translation",
+          "title": "翻译 · 校园阅读角",
+          "kind": "translation",
+          "questions": [
+            {
+              "id": "demo-cet4-translation-q1",
+              "type": "translation",
+              "prompt": "许多大学在校园里设置了阅读角。学生可以把读过的书放在那里，也可以借阅别人分享的书。这种简单的方式让阅读更加方便，还能帮助学生发现新的兴趣。如果每个人都认真保管和及时归还书籍，阅读角就能长期发挥作用。",
+              "reference": "Many universities have set up reading corners on campus. Students can leave books they have finished there and borrow books shared by others. This simple arrangement makes reading more convenient and helps students discover new interests. If everyone takes good care of the books and returns them on time, these reading corners can remain useful for a long time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demo-cet6-urban-trees",
+      "title": "六级演示 · 城市绿地（自创练习）",
+      "level": "CET6",
+      "year": 2026,
+      "session": "演示",
+      "source_kind": "demo",
+      "source": {
+        "title": "CET Study 自创演示内容，不是历年真题",
+        "rights": "original-demo",
+        "verified": true
+      },
+      "sections": [
+        {
+          "id": "demo-cet6-reading",
+          "title": "阅读 · 树荫与城市规划",
+          "kind": "reading",
+          "passage": "Planting trees is often presented as a straightforward response to summer heat in cities. Yet the benefit depends on where the trees are planted and whether they survive. A young tree beside a wide road may provide little shade for several years. Without suitable soil and regular care, it may never develop the canopy that planners expected.\n\nA fictional planning team in Brookfield therefore began its project by mapping the routes people used to walk to schools and clinics. Instead of distributing the same number of trees to every neighbourhood, the team gave priority to heavily used routes with little existing shade. Residents helped select planting sites and reported damaged trees.\n\nThe approach does not imply that other streets are unimportant. It reflects a distinction between counting trees and evaluating their actual contribution. A successful programme must consider both long-term maintenance and the needs of the people who will use the shaded spaces.",
+          "questions": [
+            {
+              "id": "demo-cet6-reading-q1",
+              "type": "choice",
+              "prompt": "Which factor guided the Brookfield team's initial planting priorities?",
+              "options": [
+                { "id": "A", "text": "Equal numbers of trees for all neighbourhoods." },
+                { "id": "B", "text": "Frequently used walking routes that lacked shade." },
+                { "id": "C", "text": "The availability of the youngest possible trees." },
+                { "id": "D", "text": "The preference for roads with the greatest width." }
+              ],
+              "answer": "B",
+              "explanation": "第二段说明项目优先考虑使用频繁但现有树荫较少的路线，而非平均分配数量。"
+            },
+            {
+              "id": "demo-cet6-reading-q2",
+              "type": "choice",
+              "prompt": "What distinction does the author emphasize in the final paragraph?",
+              "options": [
+                { "id": "A", "text": "The number of trees planted and the benefits they actually provide." },
+                { "id": "B", "text": "School buildings and medical facilities." },
+                { "id": "C", "text": "Residents' reports and professional weather forecasts." },
+                { "id": "D", "text": "Young trees and mature trees as different species." }
+              ],
+              "answer": "A",
+              "explanation": "末段将 counting trees 与 evaluating their actual contribution 对照，强调评价实际效果。"
+            }
+          ]
+        },
+        {
+          "id": "demo-cet6-writing",
+          "title": "写作 · 衡量公共项目的价值",
+          "kind": "writing",
+          "questions": [
+            {
+              "id": "demo-cet6-writing-q1",
+              "type": "writing",
+              "prompt": "Write an essay discussing why public projects should be evaluated by their practical benefits as well as their size. Use a concrete example and explain how citizens could contribute to the evaluation. This is an original practice prompt, not a past exam question.",
+              "min_words": 150,
+              "max_words": 200,
+              "reference": "先明确规模与实际效益的关系，再用交通、绿地或公共阅读设施举例；说明维护、使用率和居民反馈为何有助于评价。参考思路并非唯一答案。"
+            }
+          ]
+        },
+        {
+          "id": "demo-cet6-translation",
+          "title": "翻译 · 社区绿地",
+          "kind": "translation",
+          "questions": [
+            {
+              "id": "demo-cet6-translation-q1",
+              "type": "translation",
+              "prompt": "在城市更新过程中，越来越多的社区开始重视小型绿地。这些空间不仅为居民提供休息的场所，也能改善步行体验。然而，绿地的价值不能只用面积来衡量。合理的位置、持续的维护以及居民的参与同样重要。让不同年龄的人都能方便地使用这些空间，才能使有限的公共资源发挥更大的作用。",
+              "reference": "During urban renewal, an increasing number of communities are paying attention to small green spaces. These spaces provide residents with places to relax and improve the experience of walking. However, their value cannot be measured by area alone. Appropriate locations, ongoing maintenance and residents' participation are equally important. Making these spaces accessible to people of different ages allows limited public resources to deliver greater benefits."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
