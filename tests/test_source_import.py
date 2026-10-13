@@ -21,6 +21,7 @@ class SourceImportTests(unittest.TestCase):
         translation = "const TRANSLATION_DATA=[{year:2025,period:'6月',set:'第一套',original:'自创原文',reference:'Original reference'}];"
         exams = validate_pack({'schema_version': 1, 'exams': cet6_subjective(writing, translation, [2025])})
         self.assertFalse(exams[0]['source']['verified'])
+        self.assertEqual(exams[0]['title'], '2025年6月 六级 第1套 · 写作与翻译')
         self.assertEqual(len(exams[0]['sections']), 2)
         self.assertIn('自创原文', exams[0]['sections'][1]['questions'][0]['prompt'])
         self.assertIn('非已核验官方答案', exams[0]['sections'][1]['questions'][0]['reference'])
@@ -44,6 +45,7 @@ class SourceImportTests(unittest.TestCase):
         self.assertTrue(all(e['year'] == 2023 for e in exams))
         self.assertNotIn('example essay', exams[0]['sections'][0]['questions'][0]['prompt'])
         self.assertFalse(exams[0]['source']['verified'])
+        self.assertEqual(exams[0]['title'], '2023年3月 四级 第1套 · 写作与翻译')
         with self.assertRaises(ContentError):
             cet4_subjective('### 2023.6月\n#### 第1套\n**写作**\n> Incomplete.', [2023])
 

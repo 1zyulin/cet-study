@@ -106,6 +106,26 @@ class PlatformTestCase(unittest.TestCase):
 
 
 class ExamTests(PlatformTestCase):
+    def test_default_start_keeps_an_empty_library_without_demo_data(self):
+        app = create_app(data_dir=Path(self.temp.name) / 'empty-default')
+        client = app.test_client()
+        self.assertEqual(client.get('/api/dashboard').get_json(), {
+            'exams': 0, 'questions': 0, 'attempts': 0, 'words': 0, 'due_words': 0})
+        self.assertEqual(app.extensions['store'].exams(), [])
+        self.assertEqual(app.extensions['store'].words(), [])
+
+    def test_default_restart_preserves_existing_library_and_progress(self):
+        self.import_exam()
+        self.post('/api/words/import', {'format': 'txt', 'content': 'learn\t学习', 'title': 'My book'})
+        word = self.app.extensions['store'].words()[0]
+        self.post('/api/words/' + word['id'] + '/review', {'rating': 'good'})
+        self.post('/api/exams/test-cet4/submit', {'answers': {'q1': 'A'}})
+        before = self.app.extensions['store'].backup()
+        reopened = create_app(data_dir=self.temp.name)
+        after = reopened.extensions['store'].backup()
+        for key in ('exams', 'words', 'attempts'):
+            self.assertEqual(after[key], before[key])
+
     def test_import_is_atomic_for_invalid_second_exam(self):
         self.import_exam()
         for defect in ('duplicate', 'invalid_answer', 'empty_questions', 'duplicate_question'):

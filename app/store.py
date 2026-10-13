@@ -75,7 +75,12 @@ class Store:
             for w in words:
                 prev = db.execute('SELECT data FROM words WHERE word=?', (w['word'],)).fetchone()
                 old = json.loads(prev['data']) if prev else {'id': uuid.uuid4().hex, 'reviews': 0, 'interval_days': 0, 'due_at': now()}
-                record = dict(old, **w, book=title)
+                books = list(old.get('books', []))
+                if old.get('book') and old['book'] not in books:
+                    books.append(old['book'])
+                if title not in books:
+                    books.append(title)
+                record = dict(old, **w, book=title, books=books)
                 db.execute('INSERT INTO words VALUES (?,?,?) ON CONFLICT(word) DO UPDATE SET data=excluded.data', (record['id'], record['word'], dumps(record)))
 
     def review(self, wid, rating):
@@ -173,7 +178,14 @@ def validate_backup(backup, exam_validator):
                 raise ValueError
         except ValueError:
             raise ContentError('复习日期必须含时区')
-        words.append(dict(w, id=wid, reviews=reviews, interval_days=interval, due_at=date, book=text(r.get('book', ''), '词书标题', 200)))
+        book = text(r.get('book', ''), '词书标题', 200)
+        raw_books = r.get('books', [book] if book else [])
+        if not isinstance(raw_books, list) or len(raw_books) > 100:
+            raise ContentError('备份词书列表格式或数量错误')
+        books = [text(value, '词书标题', 200, True) for value in raw_books]
+        if len(set(books)) != len(books) or (book and book not in books):
+            raise ContentError('备份词书列表重复或缺少当前词书')
+        words.append(dict(w, id=wid, reviews=reviews, interval_days=interval, due_at=date, book=book, books=books))
     attempts, ids = [], set()
     exam_ids = {e['id'] for e in exams}
     for a in raw_attempts:

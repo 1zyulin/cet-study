@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-13",
+  "content_type": "short_marker_corrections_and_source_fingerprints_only",
+  "notice": "仅含短标签更正、题号及来源指纹，不含题干或选项句子。文件指纹或限定范围的唯一原标记不匹配时，转换器拒绝套用。",
+  "corrections": {
+    "cet6_2024_06_2.docx": [
+      {
+        "kind": "wordbank-label",
+        "old": "ID)",
+        "new": "I)",
+        "source_sha256": "7d0ee01e746ce982456ecff86f17607c01df9803ff56af75de63ba47e68e22a4",
+        "source_blob_sha": "9272f8cbbbf7b4bd6ed81e8ab788be8c1c7a0e89",
+        "evidence_file": "andrew_2024_06_3.txt",
+        "evidence_url": "https://github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/blob/main/cet6_zhenti_cleaned/2024-06_03.txt",
+        "evidence_sha256": "8e2ffb74417a55d402279e4c5662bfa248f9caa9e454b221f59de8ce1bcf57d2",
+        "evidence_blob_sha": "4a5fd12bdc5d44be9f44013b0d50b8a5ec5bd057",
+        "method": "Compared the same question/wordbank in the independent source; only the uniquely scoped marker is corrected."
+      }
+    ],
+    "loveitsuka_2024_06_1.pdf": [
+      {
+        "kind": "question-leading-token",
+        "question": 41,
+        "old": "1t",
+        "new": "It",
+        "source_sha256": "ef879d945d233082b357ac48a524d9f755b4aa63deffa246c6cb86c32440431f",
+        "source_blob_sha": "3ff12336dae21a0cb027f6eb7f07d461f45759c7",
+        "evidence_file": "cet6_2024_06_1.docx",
+        "evidence_url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98Word/2024%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8PDF%E7%89%88%E3%80%91.docx",
+        "evidence_sha256": "26a0c9c7f3fdec00b8306095ecac6880085a96fe454063cd14bc104dc4759c28",
+        "evidence_blob_sha": "e50e01e8df6271638c0807e85c9e5bd3e713604d",
+        "method": "Compared the same question/wordbank in the independent source; only the uniquely scoped marker is corrected."
+      },
+      {
+        "kind": "question-option-label",
+        "question": 54,
+        "old": "O)",
+        "new": "C)",
+        "source_page": 8,
+        "source_sha256": "ef879d945d233082b357ac48a524d9f755b4aa63deffa246c6cb86c32440431f",
+        "source_blob_sha": "3ff12336dae21a0cb027f6eb7f07d461f45759c7",
+        "evidence_file": "cet6_2024_06_1.docx",
+        "evidence_url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98Word/2024%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8PDF%E7%89%88%E3%80%91.docx",
+        "evidence_sha256": "26a0c9c7f3fdec00b8306095ecac6880085a96fe454063cd14bc104dc4759c28",
+        "evidence_blob_sha": "e50e01e8df6271638c0807e85c9e5bd3e713604d",
+        "method": "Compared the same question/wordbank in the independent source; only the uniquely scoped marker is corrected."
+      },
+      {
+        "kind": "question-option-label",
+        "question": 55,
+        "old": "O)",
+        "new": "C)",
+        "source_page": 8,
+        "source_sha256": "ef879d945d233082b357ac48a524d9f755b4aa63deffa246c6cb86c32440431f",
+        "source_blob_sha": "3ff12336dae21a0cb027f6eb7f07d461f45759c7",
+        "evidence_file": "cet6_2024_06_1.docx",
+        "evidence_url": "https://github.com/0609x/CET46-Resources/blob/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98Word/2024%E5%B9%B46%E6%9C%88%E7%AC%AC1%E5%A5%97%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8PDF%E7%89%88%E3%80%91.docx",
+        "evidence_sha256": "26a0c9c7f3fdec00b8306095ecac6880085a96fe454063cd14bc104dc4759c28",
+        "evidence_blob_sha": "e50e01e8df6271638c0807e85c9e5bd3e713604d",
+        "method": "Compared the same question/wordbank in the independent source; only the uniquely scoped marker is corrected."
+      }
+    ]
+  }
+}

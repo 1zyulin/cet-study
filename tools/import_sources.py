@@ -180,7 +180,7 @@ def cet6_subjective(writing, translation, years):
         if set(sections) != {'writing', 'translation'}:
             raise ContentError('Writing/translation source coverage mismatch')
         exams.append({'id': f'community-cet6-{year}-{month:02d}-{number}-wt',
-            'title': f'{year}年{month}月 六级 第{number}套 · 写作与翻译（待校对）',
+            'title': f'{year}年{month}月 六级 第{number}套 · 写作与翻译',
             'level': 'CET6', 'year': year, 'session': f'{month}月 第{number}套',
             'source_kind': 'past_paper',
             'source': source_info('Drhm1224/cet6-all-in-one', 'https://github.com/Drhm1224/cet6-all-in-one/tree/main/data'),
@@ -220,7 +220,7 @@ def cet4_subjective(markdown, years):
             if '120' not in writing or '180' not in writing:
                 raise ContentError('CET4 writing word-count instructions missing')
             exams.append({'id': f'community-cet4-{year}-{month:02d}-{number}-wt',
-                'title': f'{year}年{month}月 四级 第{number}套 · 写作与翻译（待校对）',
+                'title': f'{year}年{month}月 四级 第{number}套 · 写作与翻译',
                 'level': 'CET4', 'year': year, 'session': f'{month}月 第{number}套',
                 'source_kind': 'past_paper',
                 'source': source_info('zzz-sc-tech/cet6-writing-translation · CC BY-NC-SA 4.0',

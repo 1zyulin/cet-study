@@ -17,7 +17,7 @@ from .store import Store, dumps, now, parse_words, validate_backup
 ROOT = Path(__file__).resolve().parent.parent
 
 
-def create_app(data_dir=None, seed=True):
+def create_app(data_dir=None, seed=False):
     ai.load_env(ROOT / '.env')
     data_dir = Path(data_dir or ROOT / 'data')
     data_dir.mkdir(parents=True, exist_ok=True)
